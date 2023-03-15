@@ -18,3 +18,8 @@ information:
  
  6.number of borrowed copies
 
+In each record: The above items are separated by commas, and authors are separated with 
+colons.
+The information of borrowed books is stored in “borrowedInfo.txt” file. Each line in this file 
+represents a record that contains the serial number of the book and the id of the borrower. These 
+information are separated by a comma.
