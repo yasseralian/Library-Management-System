@@ -7,8 +7,14 @@ line represents a record that corresponds to a unique book. Each record contains
 information:
 
  1.Serial Number (5 digits)
+ 
  2.Title
+ 
  3.authors
+ 
  4.price
+ 
  5.number of available copies in the library
+ 
  6.number of borrowed copies
+
