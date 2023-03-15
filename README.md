@@ -6,4 +6,11 @@ The information of available books in a library are stored in “booksInfo.txt�
 line represents a record that corresponds to a unique book. Each record contains the following 
 information:
 
-_yasser
+
+information:
+ Serial Number (5 digits)
+ Title
+ authors
+ price
+ number of available copies in the library
+ number of borrowed copies
