@@ -7,3 +7,5 @@ line represents a record that corresponds to a unique book. Each record contains
 information:
 
 -Serial Number (5 digits)
+*
++
