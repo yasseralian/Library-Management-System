@@ -6,6 +6,4 @@ The information of available books in a library are stored in â€œbooksInfo.txtâ€
 line represents a record that corresponds to a unique book. Each record contains the following 
 information:
 
--Serial Number (5 digits)
-*
-+
+_yasser
