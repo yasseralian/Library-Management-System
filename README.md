@@ -6,11 +6,9 @@ The information of available books in a library are stored in “booksInfo.txt�
 line represents a record that corresponds to a unique book. Each record contains the following 
 information:
 
-
-information:
- Serial Number (5 digits)
- Title
- authors
- price
- number of available copies in the library
- number of borrowed copies
+ 1.Serial Number (5 digits)
+ 2.Title
+ 3.authors
+ 4.price
+ 5.number of available copies in the library
+ 6.number of borrowed copies
