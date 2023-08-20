@@ -25,16 +25,15 @@ This repository contains a menu-driven program for a Library Management System i
 
 ## Files
 
-- `library_management.py`: The main Python script implementing the Library Management System.
+- `the final project.ipynb`: The main Python script implementing the Library Management System.
 - `booksInfo.txt`: Stores information about available books.
 - `borrowedInfo.txt`: Stores information about borrowed books.
 - `README.md`: This file, providing information about the project.
 
 ## Team Members
 
-- [Your Name](https://github.com/yourusername)
-- [Teammate 1's Name](https://github.com/teammate1username)
-- [Teammate 2's Name](https://github.com/teammate2username)
+- [Your Name](https://github.com/yasseralian))
+
 
 ## Project Report
 
