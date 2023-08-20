@@ -1,5 +1,5 @@
 # Library Management System
-
+![Library Management System](images/library_management_system.jpg)
 This repository contains a menu-driven program for a Library Management System implemented as a Python application. The program allows users to manage the information of books in a library, including printing book information, searching for books, adding new books, removing books, borrowing books, and returning books. The program stores book information in "booksInfo.txt" and borrowed book information in "borrowedInfo.txt".
 
 ## Features
